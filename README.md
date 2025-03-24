@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruna00alves/" target="_blank">
+  <a href="https://www.linkedin.com/in/maurodesouza/" target="_blank">
     <img src="https://raw.githubusercontent.com/bruna00alves/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="bandreza@outlook.com" target="_blank">
